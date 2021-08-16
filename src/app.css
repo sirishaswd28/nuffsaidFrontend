@@ -1,0 +1,57 @@
+.btn-div {
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.btn-div button {
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.btn-div button:nth-child(2) {
+    background-color: #4caf50;
+}
+
+table {
+    width: 90%;
+    margin: 0 auto;
+    table-layout: fixed;
+}
+
+table th {
+    text-align: left;
+}
+
+table th h2 {
+    margin: 0;
+}
+
+table tr td .td-div {
+    margin: 6px;
+    border-radius: 5px;
+}
+
+table tr td .td-div .p-msg {
+    padding: 5px 5px 0 5px;
+}
+
+.btn-clear {
+    text-align: right;
+    padding: 0 10px 10px 0;
+}
+
+.btn-clear span {
+    cursor: pointer;
+}
+
+table tr td:first-child .td-div {
+    background-color: #F56236;
+}
+
+table tr td:nth-child(2) .td-div {
+    background-color: #FCE788;
+}
+
+table tr td:nth-child(3) .td-div {
+    background-color: #88FCA3;
+}
